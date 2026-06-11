@@ -7,7 +7,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </h1>
 
 <p align="center">
-🛡️ Cyber Security | 🔴 Red Teaming | 🔵 Digital Forensics | 🌐 CCNA
+🛡️ Cyber Security | 🔴 Red Teaming | 🔵 Digital Forensics | 🌐 CCNA | 🛡️Founder & CEO, QYNTRAIX Cyber DefensE
 </p>
 
 <p align="center">
